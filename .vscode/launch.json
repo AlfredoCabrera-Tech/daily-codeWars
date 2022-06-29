@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/06-26-2022/main.js",
+            "program": "${fileWorkspaceFolder}/main.js",
             "runtimeExecutable": "/home/afca/.nvm/versions/node/v18.4.0/bin/node"
         }
     ]
