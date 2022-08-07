@@ -29,9 +29,3 @@ function bouncingBall(h,  bounce,  window) {
     return result
   }
 }
-
-bouncingBall(3.0, 0.66, 1.5)
-bouncingBall(30.0, 0.66, 1.5)
-bouncingBall(3.0, 1.0, 1.5)
-bouncingBall(30, 0.66, 1.5)
-bouncingBall(30, 0.75, 1.5)
