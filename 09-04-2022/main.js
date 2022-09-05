@@ -31,8 +31,3 @@ function titleCase(title, minorWords='') {
     return ''
   }
 }
-
-titleCase('a clash of KINGS', 'a an the of')
-// titleCase('THE WIND IN THE WILLOWS', 'The In')
-titleCase('the quick brown fox')
-titleCase('')
