@@ -15,6 +15,3 @@ function twoSum(numbers, target) {
   return resultArr.slice(0,2)
 
 }
-
-
-twoSum([2,3,1], 4)
