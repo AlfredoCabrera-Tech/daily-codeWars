@@ -18,10 +18,6 @@ function findOdd(A) {
   return parseInt(result)
 }
 
-/* findOdd([7])
-findOdd([1,1,2])
-findOdd([1,2,2,3,3,3,4,3,3,3,2,2,1]) */
-
 basicTest(findOdd([7]), 7);
 basicTest(findOdd([0]), 0);
 basicTest(findOdd([1,1,2]), 2);
