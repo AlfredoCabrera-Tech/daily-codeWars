@@ -1,0 +1,17 @@
+{
+  "name": "daily-codewars",
+  "version": "1.0.0",
+  "description": "This repository is a collection of daily Code Wars challenges (Katas) done in JavaScript, mainly (but not limited to) the fundamentals category.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitest/coverage-c8": "^0.26.3",
+    "vitest": "^0.26.3"
+  }
+}
