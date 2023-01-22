@@ -47,4 +47,4 @@ export default function wordsToMarks(string) {
   return pointsArr.reduce((ac, cu) => ac + cu);
 }
 
-wordsToMarks("attitude");
+// wordsToMarks("attitude");
