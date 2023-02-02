@@ -1,6 +1,7 @@
 export default function mxdiflg(a1, a2) {
-  // your code
-  // return [...a1, ...a2].sort((a, b) => b.length - a.length)[0].length;
+  if (a1.length === 0 || a2.length === 0) {
+    return -1;
+  }
   let results = [];
   for (let i = 0; i < a1.length; i++) {
     for (let j = 0; j < a2.length; j++) {
